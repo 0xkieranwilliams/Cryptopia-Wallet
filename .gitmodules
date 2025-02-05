@@ -1,0 +1,6 @@
+[submodule "Cryptopia-frontend"]
+	path = Cryptopia-frontend
+	url = https://github.com/bilal-mustafa10/Cryptopia-frontend.git
+[submodule "Onchain-Operator-ETHAgents-Hack"]
+	path = Onchain-Operator-ETHAgents-Hack
+	url = https://github.com/sethupavan12/Onchain-Operator-ETHAgents-Hack.git
