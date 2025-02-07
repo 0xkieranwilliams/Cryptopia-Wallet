@@ -1,3 +1,4 @@
+![image](https://github.com/0xkieranwilliams/Cryptopia-Wallet/blob/main/assets/cryptopia-logo.png)
 
 **Cryptopia** is an all-in-one consumer wallet AI agent designed to revolutionize your digital asset experience. By integrating advanced blockchain analytics, real-time market data, and smart contract functionalities, Cryptopia serves as your comprehensive command center for managing, analyzing, and growing your crypto portfolio.
 
@@ -71,81 +72,88 @@ Step into **Cryptopia** and experience the future of crypto management—where e
 # Integrated Functionalities:
 
 
-### 1. **The Graph Integration**
-Utilizes two subgraphs on the Base network to query and analyze on-chain data. The integration supports several specialized queries:
+<!-- 1. The Graph Integration -->
+<h3>1. <strong>The Graph Integration</strong></h3>
+<div style="display: flex; align-items: center;">
+  <img src="https://github.com/0xkieranwilliams/Cryptopia-Wallet/blob/main/assets/thegraph.png" style="width: 50px; margin-right: 10px;">
+  <img src="https://github.com/0xkieranwilliams/Cryptopia-Wallet/blob/main/assets/uniswap.png" style="width: 50px; margin-right: 10px;">
+  <img src="https://github.com/0xkieranwilliams/Cryptopia-Wallet/blob/main/assets/base.png" style="width: 40px; margin-right: 10px;">
+  <p>Utilizes two subgraphs on the Base network to query and analyze on-chain data. The integration supports several specialized queries:</p>
+</div>
+<ul>
+  <li>Uniswap V3 Base Subgraph: <a href="https://gateway.thegraph.com/api/{api-key}/subgraphs/id/43Hwfi3dJSoGpyas9VwNoDAv55yjgGrPpNSmbQZArzMG">Link</a></li>
+  <li>Bunni V2 Base Subgraph: <a href="https://gateway.thegraph.com/api/{api-key}/subgraphs/id/3oawHiCt7L9wJTEY9DynwAEmoThy8bvRhuMZdaaAooqW">Link</a></li>
+</ul>
+<p>Features include:</p>
+<ul>
+  <li>Large Swap Detection</li>
+  <li>Emerging Liquidity Pools</li>
+  <li>High Fee Pools</li>
+  <li>Undervalued Tokens</li>
+  <li>Whale Accumulation</li>
+  <li>Swap Trends Analysis</li>
+  <li>Gas Fee Insights</li>
+  <li>Arbitrage Opportunities</li>
+</ul>
 
-      - Uniswap V3 Base Subgraph : https://gateway.thegraph.com/api/{api-key}/subgraphs/id/43Hwfi3dJSoGpyas9VwNoDAv55yjgGrPpNSmbQZArzMG
-      - Bunni V2 Base Subgraph : https://gateway.thegraph.com/api/{api-key}/subgraphs/id/3oawHiCt7L9wJTEY9DynwAEmoThy8bvRhuMZdaaAooqW
- 
+<!-- 2. Browser Search Integration -->
+<h3>2. <strong>Browser Search Integration</strong></h3>
+<p>Dynamic Internet Search tool for real-time information with user consent.</p>
 
+<!-- 3. Crypto Compare API Integration -->
+<h3>3. <strong>Crypto Compare API Integration</strong></h3>
+<div style="display: flex; align-items: center;">
+  <img src="https://github.com/0xkieranwilliams/Cryptopia-Wallet/blob/main/assets/cryptocompare.png" style="width: 50px; margin-right: 10px;">
+  <p>Offers real-time and historical market data along with crypto news.</p>
+</div>
+<ul>
+  <li>News Fetching</li>
+  <li>Price Data</li>
+  <li>Trading Signals</li>
+  <li>Market Cap Rankings</li>
+  <li>Exchange Rankings</li>
+  <li>Volume Leaders</li>
+</ul>
 
-- **Large Swap Detection:** Identifies whale exits by flagging transactions with sell volumes above a configurable threshold (e.g., $100,000+ USD).
-- **Emerging Liquidity Pools:** Spots new pools with high Total Value Locked (TVL) that are experiencing rapid growth (e.g., TVL > $1,000,000 with 50%+ growth in 24 hours).
-- **High Fee Pools:** Finds liquidity pools offering high fee returns (e.g., fee tiers above 5000, implying high APY).
-- **Undervalued Tokens:** Searches for tokens that might be undervalued based on a low TVL-to-Market Cap ratio, provided they have significant liquidity.
-- **Whale Accumulation:** Detects early whale activity by monitoring large buy transactions (e.g., >$250,000 within 24 hours).
-- **Swap Trends Analysis:** Reviews historical swap data (over the last 7 days) to gauge market sentiment.
-- **Gas Fee Insights:** Examines transactions with the highest gas usage in the past 24 hours to provide insight into network cost dynamics.
-- **Arbitrage Opportunities:** Compares pool data and computed prices between different decentralized exchanges (DEXs) to highlight potential arbitrage margins.
+<!-- 4. Moralis API Integration -->
+<h3>4. <strong>Moralis API Integration</strong></h3>
+<div style="display: flex; align-items: center;">
+  <img src="https://github.com/0xkieranwilliams/Cryptopia-Wallet/blob/main/assets/moralis.png" style="width: 50px; margin-right: 10px;">
+  <p>Enables deep wallet and blockchain data retrieval.</p>
+</div>
+<ul>
+  <li>Wallet History & Balance</li>
+  <li>NFT and Token Transfers</li>
+  <li>Token Holdings & DeFi Positions</li>
+  <li>Price Retrieval</li>
+  <li>OHLCV Data</li>
+  <li>Wallet Net Worth & Stats</li>
+</ul>
 
----
+<!-- 5. Wow Launch Pad Integration -->
+<h3>5. <strong>Wow Launch Pad Integration</strong></h3>
+<p>Offers the ability to deploy new multi-token contracts with a customizable base URI for token metadata.</p>
 
-### 2. **Browser Search Integration**
-- **Dynamic Internet Search:** If deeper context or real-time information is needed, the agent can trigger a browser-based search. It asks for user consent before proceeding and then uses a dedicated tool (named "when_no_api_search_like_human") to perform multi-step searches on the internet.
+<!-- 6. ERC-20 Token Swapping on Uniswap V3 Base -->
+<h3>6. <strong>ERC-20 Token Swapping on Uniswap V3 Base</strong></h3>
+<div style="display: flex; align-items: center;">
+  <img src="https://github.com/0xkieranwilliams/Cryptopia-Wallet/blob/main/assets/uniswap.png" style="width: 50px; margin-right: 10px;">
+  <p>Facilitates the swapping of ERC-20 tokens on the Uniswap V3 platform operating on the Base network.</p>
+</div>
 
----
+<!-- 7. CDP Agent Kit Prepacked functionality -->
+<h3>7. <strong>CDP Agent Kit Prepacked Functionality</strong></h3>
+<img src="https://github.com/0xkieranwilliams/Cryptopia-Wallet/blob/main/assets/coinbase.png" alt="Uniswap" style="width: 50px; margin-right: 10px;">
 
-### 3. **Crypto Compare API Integration**
-Offers real-time and historical market data along with crypto news:
-- **News Fetching:** Retrieves the latest news articles about specific tokens, including titles, bodies, sources, and publish times.
-- **Price Data:** Provides current cryptocurrency prices with support for multiple currencies.
-- **Trading Signals:** Fetches advanced trading signals and market indicators (such as network activity, large transaction patterns, and holder behavior) from analytics providers like IntoTheBlock.
-- **Market Cap Rankings:** Lists top cryptocurrencies by market capitalization along with key metrics like price, volume, and circulating supply.
-- **Exchange Rankings:** Identifies the top exchanges for specific trading pairs based on volume, market share, and price variations.
-- **Volume Leaders:** Retrieves rankings of cryptocurrencies based on their total trading volume.
+<p>Forms the backbone for blockchain interactions, with modules handling tasks like:</p>
+<ul>
+  <li>Address Reputation</li>
+  <li>CDP Management</li>
+  <li>Smart Contract Deployment</li>
+  <li>NFT Minting and Transfers</li>
+  <li>Token Issuance and Trading</li>
+  <li>Utility Functions for Blockchain Operations</li>
+</ul>
 
----
-
-### 4. **Moralis API Integration**
-Enables deep wallet and blockchain data retrieval:
-- **Wallet History & Balance:** Fetches transaction histories and current balances for any given wallet on various blockchains.
-- **NFT and Token Transfers:** Provides details on NFT transfers, ERC20 token transfers, and overall NFT trading activities.
-- **Token Holdings & DeFi Positions:** Lists all tokens held by a wallet and shows current DeFi positions.
-- **Price Retrieval:** Supports fetching current prices for single tokens or in batch, including options for percent-change data.
-- **OHLCV Data:** Retrieves historical Open-High-Low-Close-Volume data for trading pairs to assist with technical analysis.
-- **Wallet Net Worth & Stats:** Calculates the overall net worth of a wallet (filtering out spam or unverified tokens) and provides statistical insights into wallet activity.
-
----
-
-### 5. **Wow Launch Pad Integration**
-- **Multi-Token Contract Deployment:** Offers the ability to deploy new multi-token contracts with a customizable base URI for token metadata. This is useful for launching collections or projects with multiple tokens.
-
----
-
-### 6. **ERC-20 Token Swapping on Uniswap V3 Base**
-- **Swapping Functionality:** Facilitates the swapping of ERC-20 tokens on the Uniswap V3 platform operating on the Base network, allowing for on-chain token exchanges directly through the agent.
-
----
-
-### 7. CDP Agent Kit Prepacked functionality
-
-cdp_agentkit_core.actions – Subpackages & Submodules
-This suite forms the backbone for blockchain interactions, each module handling a specific task:
-
-- address_reputation: Assess the trustworthiness and risk profile of blockchain addresses.
-- cdp_action: Manage and interact with collateralized debt positions (CDPs) or similar DeFi instruments.
-- constants: Maintain global constants and configurations across the agent.
-- deploy_contract: Deploy generic smart contracts onto blockchain networks.
--deploy_nft: Launch NFT contracts to create and deploy NFT collections.
-- deploy_token: Deploy token contracts (e.g., ERC20), enabling new token issuance.
-- get_balance: Retrieve wallet balances for various tokens across chains.
-- get_balance_nft: Fetch NFT balance information for a wallet.
-- get_wallet_details: Extract detailed wallet information, including transaction histories and holdings.
-- mint_nft: Mint new NFTs on deployed NFT contracts.
-- register_basename: Handle base name registration for token naming, domains, or identification.
-- request_faucet_funds: Allow users to request testnet tokens for development.
-- trade: Facilitate token trading, including order placement and execution on DEXs.
-- transfer: Manage token transfers between wallet addresses.
-- transfer_nft: Handle NFT transfers for smooth digital asset movement.
 - utils: Provide utility functions and helpers for other modules.
 - wrap_eth: Enable wrapping/unwrapping of ETH to WETH for DeFi protocol interactions.
