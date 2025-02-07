@@ -81,8 +81,8 @@ Step into **Cryptopia** and experience the future of crypto management—where e
   <p>Utilizes two subgraphs on the Base network to query and analyze on-chain data. The integration supports several specialized queries:</p>
 </div>
 <ul>
-  <li>Uniswap V3 Base Subgraph: <a href="https://gateway.thegraph.com/api/{api-key}/subgraphs/id/43Hwfi3dJSoGpyas9VwNoDAv55yjgGrPpNSmbQZArzMG">Link</a></li>
-  <li>Bunni V2 Base Subgraph: <a href="https://gateway.thegraph.com/api/{api-key}/subgraphs/id/3oawHiCt7L9wJTEY9DynwAEmoThy8bvRhuMZdaaAooqW">Link</a></li>
+  <li>Uniswap V3 Base Subgraph: <br/><a href="https://gateway.thegraph.com/api/{api-key}/subgraphs/id/43Hwfi3dJSoGpyas9VwNoDAv55yjgGrPpNSmbQZArzMG">https://gateway.thegraph.com/api/{api-key}/subgraphs/id/43Hwfi3dJSoGpyas9VwNoDAv55yjgGrPpNSmbQZArzMG</a></li>
+  <li>Bunni V2 Base Subgraph: <br/><a href="https://gateway.thegraph.com/api/{api-key}/subgraphs/id/3oawHiCt7L9wJTEY9DynwAEmoThy8bvRhuMZdaaAooqW">https://gateway.thegraph.com/api/{api-key}/subgraphs/id/3oawHiCt7L9wJTEY9DynwAEmoThy8bvRhuMZdaaAooqW</a></li>
 </ul>
 <p>Features include:</p>
 <ul>
