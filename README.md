@@ -65,11 +65,10 @@ Step into **Cryptopia** and experience the future of crypto management—where e
 
 
 
+<br/><br/>
 
 
-
-
-# Here’s an overview of its integrated functionalities:
+# Integrated Functionalities:
 
 
 ### 1. **The Graph Integration**
