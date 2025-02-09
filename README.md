@@ -8,9 +8,15 @@
 
 Cryptopia empowers both casual enthusiasts and seasoned crypto users with the tools needed to navigate the decentralized world. It seamlessly blends multiple integrations and modular components to deliver a dynamic, secure, and user-friendly platform for managing digital assets.
 
+#### Associated PRs:
+- https://github.com/coinbase/agentkit/pull/307
+- https://github.com/crestalnetwork/intentkit/pull/172
 ---
 
 ## Key Features
+
+
+
 
 ### AI-Powered NFT Generation
 - **DALL-E Integration:**
@@ -72,12 +78,12 @@ Step into **Cryptopia** and experience the future of crypto management—where e
 
 
 
-<br/><br/>
+<br/>
 
 
 # Integrated Functionalities:
 
-
+<img src="https://github.com/0xkieranwilliams/Cryptopia-Wallet/blob/main/assets/cryptopia-agent-architecture.png" style="width: 100%;">
 
 <!-- 1. The Graph Integration -->
 <h3>1. <strong>The Graph Integration</strong></h3>
