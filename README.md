@@ -69,6 +69,7 @@ Cryptopia isn’t just another wallet—it's your digital asset command center. 
 
 - **Stay Informed:** With real-time insights, alerts, and in-depth portfolio reports, never miss a market opportunity.
 - **Control Your Assets:** Detailed analytics provide complete oversight of your digital portfolio, from transaction histories to token performance.
+- **Create with AI:** Generate stunning AI-powered artwork and mint NFTs directly from your wallet—perfect for artists, collectors, and innovators.
 - **Educate & Innovate:** Access tailored guides and educational content to master crypto fundamentals, while experimenting with new DeFi strategies in a safe, sandboxed environment.
 
 ---
