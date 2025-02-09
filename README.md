@@ -57,8 +57,9 @@ Cryptopia empowers both casual enthusiasts and seasoned crypto users with the to
   - **How It Works:** Access faucet funds for test networks and leverage robust utility functions to experiment with advanced DeFi strategies risk-free.  
   - **Creative Implementation:** Launch a sandbox mode to simulate trades, contract deployments, and liquidity strategies before committing real funds—perfect for refining your approach.
 
-- **Browser Search Functionality:**  
-  - **How It Works:** Integrates a browser-based search tool to fetch curated guides, tutorials, and educational content.  
+### Innovative Tools
+- **Browser Use Functionality:**  
+  - **How It Works:** Integrates an agent that uses your Chrome Browser to fetch anything from curated guides, tutorials, and educational content.  
   - **Creative Implementation:** New to crypto? Access step-by-step guides and comprehensive learning resources directly from Cryptopia. Whether you need market analysis tips or in-depth tutorials on wallet management and DeFi strategies, our built-in search tool brings the knowledge you need right to your fingertips.
 
 ---
