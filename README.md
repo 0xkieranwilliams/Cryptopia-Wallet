@@ -12,6 +12,8 @@ Cryptopia empowers both casual enthusiasts and seasoned crypto users with the to
 - https://github.com/coinbase/agentkit/pull/307
 - https://github.com/crestalnetwork/intentkit/pull/172
 ---
+![image](https://github.com/0xkieranwilliams/Cryptopia-Wallet/blob/main/assets/cryptopia-dashboard.png)
+
 
 ## Key Features
 
