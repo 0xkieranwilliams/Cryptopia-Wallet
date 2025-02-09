@@ -12,6 +12,12 @@ Cryptopia empowers both casual enthusiasts and seasoned crypto users with the to
 
 ## Key Features
 
+### AI-Powered NFT Generation
+- **DALL-E Integration:**
+  - **How It Works:** Generate unique, AI-created images using DALL-E based on text prompts and mint them directly as NFTs on the Base Sepolia testnet.
+  - **Creative Implementation:** Design custom NFT collections effortlessly. Whether you're launching an art project or celebrating milestones, create AI-generated artwork and mint NFTs with just a prompt.
+
+
 ### Real-Time On-Chain Insights & Market Alerts
 - **The Graph Integration:**  
   - **How It Works:** Continuously monitors Uniswap V3 activity to detect large swaps, emerging liquidity pools, whale accumulations, and arbitrage opportunities.  
@@ -72,6 +78,7 @@ Step into **Cryptopia** and experience the future of crypto management—where e
 # Integrated Functionalities:
 
 
+
 <!-- 1. The Graph Integration -->
 <h3>1. <strong>The Graph Integration</strong></h3>
 <div style="display: flex; align-items: center;">
@@ -96,12 +103,16 @@ Step into **Cryptopia** and experience the future of crypto management—where e
   <li>Arbitrage Opportunities</li>
 </ul>
 
-<!-- 2. Browser Search Integration -->
-<h3>2. <strong>Browser Search Integration</strong></h3>
+<!-- 2. Dalle - IPFS (Pinata) - ERC721 Contract deploy and minting Integration -->
+<h3>2.<strong> DALL-E NFT Generation Tool</strong></h3>
+<div style="display: flex; align-items: center;"> <img src="https://github.com/0xkieranwilliams/Cryptopia-Wallet/blob/main/assets/dalle.png" style="width: 50px; margin-right: 10px;"> <p>Leverages DALL-E to create AI-generated images and mint them as NFTs on the Base Sepolia testnet.</p> </div> <ul> <li>AI-Powered Image Generation</li> <li>Seamless NFT Minting</li> <li>Custom Collection Creation</li> <li>IPFS Integration for Decentralized Storage</li> <li>View NFTs on OpenSea Testnet</li> </ul>
+
+<!-- 3. Browser Search Integration -->
+<h3>3. <strong>Browser Search Integration</strong></h3>
 <p>Dynamic Internet Search tool for real-time information with user consent.</p>
 
-<!-- 3. Crypto Compare API Integration -->
-<h3>3. <strong>Crypto Compare API Integration</strong></h3>
+<!-- 4. Crypto Compare API Integration -->
+<h3>4. <strong>Crypto Compare API Integration</strong></h3>
 <div style="display: flex; align-items: center;">
   <img src="https://github.com/0xkieranwilliams/Cryptopia-Wallet/blob/main/assets/cryptocompare.png" style="width: 50px; margin-right: 10px;">
   <p>Offers real-time and historical market data along with crypto news.</p>
@@ -115,8 +126,8 @@ Step into **Cryptopia** and experience the future of crypto management—where e
   <li>Volume Leaders</li>
 </ul>
 
-<!-- 4. Moralis API Integration -->
-<h3>4. <strong>Moralis API Integration</strong></h3>
+<!-- 5. Moralis API Integration -->
+<h3>5. <strong>Moralis API Integration</strong></h3>
 <div style="display: flex; align-items: center;">
   <img src="https://github.com/0xkieranwilliams/Cryptopia-Wallet/blob/main/assets/moralis.png" style="width: 50px; margin-right: 10px;">
   <p>Enables deep wallet and blockchain data retrieval.</p>
@@ -130,19 +141,19 @@ Step into **Cryptopia** and experience the future of crypto management—where e
   <li>Wallet Net Worth & Stats</li>
 </ul>
 
-<!-- 5. Wow Launch Pad Integration -->
-<h3>5. <strong>Wow Launch Pad Integration</strong></h3>
+<!-- 6. Wow Launch Pad Integration -->
+<h3>6. <strong>Wow Launch Pad Integration</strong></h3>
 <p>Offers the ability to deploy new multi-token contracts with a customizable base URI for token metadata.</p>
 
-<!-- 6. ERC-20 Token Swapping on Uniswap V3 Base -->
-<h3>6. <strong>ERC-20 Token Swapping on Uniswap V3 Base</strong></h3>
+<!-- 7. ERC-20 Token Swapping on Uniswap V3 Base -->
+<h3>7. <strong>ERC-20 Token Swapping on Uniswap V3 Base</strong></h3>
 <div style="display: flex; align-items: center;">
   <img src="https://github.com/0xkieranwilliams/Cryptopia-Wallet/blob/main/assets/uniswap.png" style="width: 50px; margin-right: 10px;">
   <p>Facilitates the swapping of ERC-20 tokens on the Uniswap V3 platform operating on the Base network.</p>
 </div>
 
-<!-- 7. CDP Agent Kit Prepacked functionality -->
-<h3>7. <strong>CDP Agent Kit Prepacked Functionality</strong></h3>
+<!-- 8. CDP Agent Kit Prepacked functionality -->
+<h3>8. <strong>CDP Agent Kit Prepacked Functionality</strong></h3>
 <img src="https://github.com/0xkieranwilliams/Cryptopia-Wallet/blob/main/assets/coinbase.png" alt="Uniswap" style="width: 50px; margin-right: 10px;">
 
 <p>Forms the backbone for blockchain interactions, with modules handling tasks like:</p>
