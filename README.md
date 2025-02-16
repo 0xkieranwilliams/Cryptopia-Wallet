@@ -2,6 +2,8 @@
 
 **Cryptopia** is an all-in-one consumer wallet AI agent designed to revolutionize your digital asset experience. By integrating advanced blockchain analytics, real-time market data, and smart contract functionalities, Cryptopia serves as your comprehensive command center for managing, analyzing, and growing your crypto portfolio.
 
+Eth Global Agentic Ethereum Hackathon Submission: [https://ethglobal.com/showcase/cryptopia-xpsib](https://ethglobal.com/showcase/cryptopia-xpsib)
+
 ---
 
 ## Overview
